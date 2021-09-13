@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name = "testsuite">
+
+<test name = "testcase">
+
+<classes>
+
+<class name = "testNg.Depenson_method"></class>
+
+<class name = "testNg.Perority_method"></class>
+
+<class name = "testNg.sample_Task"></class>
+
+<class name = "testNg.Skip_testcase"></class>
+
+</classes>
+
+</test>
+
+</suite>
